@@ -1,4 +1,4 @@
-# 📊 Credit Risk & Loan Pricing Analysis (LendingClub)
+#  Credit Risk & Loan Pricing Analysis (LendingClub)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Econometrics](https://img.shields.io/badge/Methodology-OLS%20Regressions-green)
@@ -74,7 +74,7 @@ Controlando por nivel de riesgo, ingreso y monto, extender el plazo de 3 años a
 
 ---
 
-## 🛠️ Tecnologías y Librerías Utilizadas
+##  Tecnologías y Librerías Utilizadas
 * **Lenguaje:** Python 3.10+
 * **Procesamiento de datos:** `pandas`, `numpy`
 * **Visualización:** `matplotlib`, `seaborn`
